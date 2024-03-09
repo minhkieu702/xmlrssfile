@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Sample RSS Feed</title>
+        <description>This is a sample RSS feed for testing</description>
+        <link>http://www.example.com</link>
+        <item>
+            <title>Sample Article 1</title>
+            <description>This is the content of the first article.</description>
+        </item>
+        <item>
+            <title>Sample Article 2</title>
+            <description>This is the content of the second article.</description>
+        </item>
+    </channel>
+</rss>
